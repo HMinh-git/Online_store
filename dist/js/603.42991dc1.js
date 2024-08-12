@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmyprojectvuejs"]=self["webpackChunkmyprojectvuejs"]||[]).push([[603],{603:function(u,e,n){n.r(e),n.d(e,{default:function(){return l}});var t=n(6768);const r={class:"about"},s=(0,t.Lk)("h1",null,"This is an about page",-1),a=[s];function c(u,e){return(0,t.uX)(),(0,t.CE)("div",r,a)}var o=n(1241);const i={},f=(0,o.A)(i,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=603.42991dc1.js.map
